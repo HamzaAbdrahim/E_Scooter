@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.strock {
+    -webkit-text-stroke: 2px #8B938D;
+}
