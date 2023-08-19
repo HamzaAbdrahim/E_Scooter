@@ -13,7 +13,7 @@ This project is a conversion of a scooter landing page design from Figma into a 
 
 ## Demo
 
-You can access a live demo of the Scooter Landing Page [here](https://your-username.github.io/scooter-landing-page](https://64dfa5ef29e9b632b42d18ab--grand-truffle-0ee0d0.netlify.app/).
+You can access a live demo of the Scooter Landing Page [here](https://64dfa5ef29e9b632b42d18ab--grand-truffle-0ee0d0.netlify.app/](https://64dfa5ef29e9b632b42d18ab--grand-truffle-0ee0d0.netlify.app/))
 
 ## Getting Started
 
