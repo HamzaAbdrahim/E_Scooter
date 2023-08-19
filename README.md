@@ -1,6 +1,6 @@
 # Scooter Landing Page
 
-![Scooter Landing Page Preview](scooter.png)
+![Scooter Landing Page Preview](src/assets/scooter.png)
 
 This project is a conversion of a scooter landing page design from Figma into a fully functional website.
 
