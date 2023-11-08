@@ -24,8 +24,8 @@ const Navbar = () => {
 
     return (
         <>
-        <nav className={`${styles.flexBetween} w-full py-[2.62rem] ${styles.paddingx} border-solid border-b-2 border-b-[#EAE8F3] `}>
-            <img src={logo} alt="logo" />
+        <nav className={`${styles.flexBetween} animate__animated animate__backInUp w-full py-[1.62rem] ${styles.paddingx} border-solid border-b-2 border-b-[#EAE8F3] `}>
+            <img src={logo} alt="logo" className="h-10" />
             <ul className={`${styles.flexitems} md:flex hidden gap-[4.88rem] `}>
                 {navLinks.map((nav) => (
                     <li className={` ${styles.flexitems} `} onClick={dropdown} key={nav.id}>

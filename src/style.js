@@ -15,7 +15,9 @@ const styles = {
 
     flexCenter: "flex justify-center items-center",
     flexBetween:"flex justify-between items-center",
-    flexitems:"flex items-center"
+    flexitems:"flex items-center",
+
+    card_grids:'grid  grid'
 
 }
 export const layout = {

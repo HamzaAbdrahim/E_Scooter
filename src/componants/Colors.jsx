@@ -11,9 +11,9 @@ import greencolor from "../assets/greencolor.png"
 const Colors = () => {
   return (
     <>
-    <h2 className={`${styles.heading} mb-[2.12rem]`}>Colors</h2>
-    <p className={`${styles.pargraf}`}>Checkout our products colors.</p>
-    <div className={`${styles.flexitems} flex-col mt-20 lg:mt-28`}>
+    <h2 className={`${styles.heading} animate__animated animate__fadeInUpBig mb-[2.12rem]`}>Colors</h2>
+    <p className={`${styles.pargraf} animate__animated animate__fadeInUpBig`}>Checkout our products colors.</p>
+    <div className={`${styles.flexitems} animate__animated animate__fadeInTopLeft flex-col mt-20 lg:mt-28`}>
     <img src={bigbgscoter} className="-mb-20 mg:-mb-36 rounded-xl" alt="" />
     <div className={`${styles.flexCenter} ${styles.paddingx} w-full flex-wrap`}>
     <div className='relative cursor-pointer duration-500 hover:-translate-y-10'>

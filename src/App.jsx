@@ -10,6 +10,7 @@ import Colors from "./componants/Colors"
 import Testimonials from "./componants/Testimonials"
 import Subscribe from "./componants/Subscribe"
 import Footer from "./componants/Footer"
+import 'animate.css';
 
 const App = () => {
   return (

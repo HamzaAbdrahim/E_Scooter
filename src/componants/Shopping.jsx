@@ -10,11 +10,11 @@ const Shopping = () => {
   return (
     <>
     <div className={`${styles.flexBetween} xl:flex-row flex-col-reverse`}>
-              <div className={`${styles.flexitems} mt-10 xl:mt-0 mr-auto xl:mr-0 flex-col md:flex-row gap-[4.19rem]`}>
+              <div className={` animate__animated  animate__slideInLeft ${styles.flexitems} mt-10 xl:mt-0 mr-auto xl:mr-0 flex-col md:flex-row gap-[4.19rem]`}>
                   <img src={imgfive} alt="imgfive" />
                   <img src={packet} alt="packet" />
               </div>
-              <div className="xl:mr-[10.30rem] mr-auto ml-[3.13rem] xl:ml-0">
+              <div className=" animate__animated  animate__fadeInRightBig xl:mr-[10.30rem] mr-auto ml-[3.13rem] xl:ml-0">
                   {Shopping_Rack.map((bag, index) => (
                       <div  key={index}>
                           <h3 className="text-[3.125rem] not-italic font-bold leading-[120%] font-Ubuntu text-primary mb-[2.06rem]">
